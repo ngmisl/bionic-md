@@ -1,0 +1,11 @@
+body {
+  display: flex;
+}
+
+.inputMD {
+  width: 300px;
+}
+
+.outputMD {
+  width: 300px;
+}
